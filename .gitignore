@@ -25,3 +25,4 @@ FlipView/Demo/build
 FlipView/FlipLibrary/build
 FlipView/Demo/gradle
 FlipView/FlipLibrary/gradle
+gradle/wrapper
