@@ -20,3 +20,8 @@ local.properties
 
 #Mac folder files
 .DS_Store
+.gradle
+FlipView/Demo/build
+FlipView/FlipLibrary/build
+FlipView/Demo/gradle
+FlipView/FlipLibrary/gradle
